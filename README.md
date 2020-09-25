@@ -10,4 +10,4 @@ begin designing pinball table
 
 ![table-wip2](https://user-images.githubusercontent.com/21322032/94314744-05de6800-ff36-11ea-97d1-d8d053f95afa.JPG)
 
-continuing modeling
+![table-wip3](https://user-images.githubusercontent.com/21322032/94320887-f74a7d80-ff42-11ea-946e-3ed188b6160d.JPG)
