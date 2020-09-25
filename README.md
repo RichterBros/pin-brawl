@@ -31,3 +31,4 @@ for online capability- I will have to research that
 ![table-wip3](https://user-images.githubusercontent.com/21322032/94320887-f74a7d80-ff42-11ea-946e-3ed188b6160d.JPG)
 
 import model into unity- fix normals
+![table-wip4](https://user-images.githubusercontent.com/21322032/94324792-595daf80-ff50-11ea-8f92-427655c1c5a1.JPG)
